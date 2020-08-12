@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  Gopher
-- 🌱 I’m currently learning linux、network、k8s
+- 🌱 I’m currently learning k8s、TiDB
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with improving my programming skills
 - 💬 Ask me about Anything you want
