@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭  Gopher
-- 🌱 I’m currently learning k8s、TiDB
-- 👯 I’m looking to collaborate on 
+- 🔭  Golang、Python、C
+- 🌱 I’m currently learning K8s、TiDB
+- 👯 I’m looking to collaborate on interesting stuff 
 - 🤔 I’m looking for help with improving my programming skills
 - 💬 Ask me about Anything you want
 - ⚡ Fun fact: football lover
